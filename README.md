@@ -19,8 +19,8 @@ where perception and comprehension tasks are no longer clearly demarcated.
 We undertake this modest attempt to advance next-generation object tracking with more intelligence.
 
 <div align=center>
-<td><center><img width="85%" alt="" src=./assets/video_demo1.gif/></center></td>
-<td><center><img width="85%" alt="" src=./assets/video_demo2.gif/></center></td>
+<td><center><img width="90%" alt="" src=./assets/video_demo1.gif/></center></td>
+<td><center><img width="90%" alt="" src=./assets/video_demo2.gif/></center></td>
 </div>
 
 ## :loudspeaker:News
