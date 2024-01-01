@@ -5,7 +5,7 @@
 <div align="center">
     <a href="https://pytorch.org"><img src="https://img.shields.io/badge/Framework-Pytorch-orange.svg" alt="Framework"></a>
     <a href="https://github.com/jiawen-zhu/TrackGPT/blob/main/LICENSE"><img src="assets/LICENSE-Apache License-blue.svg" alt="License"></a>
-    <a href="https://arxiv.org/abs/231211.xxx"><img src="https://img.shields.io/badge/%F0%9F%93%96-Arxiv_2312.xxxx-red.svg?style=flat-squre"></a>
+    <a href="https://arxiv.org/abs/2312.17448"><img src="https://img.shields.io/badge/%F0%9F%93%96-Arxiv_2312.17448-red.svg?style=flat-squre"></a>
 </div>
 
 <div align=center>
