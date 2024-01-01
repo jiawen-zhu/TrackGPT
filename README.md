@@ -88,7 +88,7 @@ If you find TrackGPT useful for you, please consider citing :mega:
       Title={Tracking with Human-Intent Reasoning}, 
       Author = {Jiawen Zhu and Zhi-Qi Cheng and Jun-Yan He and Chenyang Li and Bin Luo and Huchuan Lu and Yifeng Geng and Xuansong Xie},
       Year = {2023},
-      Eprint = {arXiv:2312.xxx},
+      Eprint = {arXiv:2312.17448},
       PrimaryClass={cs.CV}
 }
 ```
